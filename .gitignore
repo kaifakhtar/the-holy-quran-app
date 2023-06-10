@@ -12,6 +12,8 @@
 
 **/android/key.properties
 
+*.pem
+
 # IntelliJ related
 *.iml
 *.ipr
